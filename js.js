@@ -16,7 +16,7 @@ for (let i = 0; i < son.length; i++) {
     }
 }
 
-// console.log(son1);
+console.log(son1);
 
 // 1. Arraydagi eng uzun stringni toping
 // Tavsif: Berilgan array ichidan eng uzun string qiymatni toping.
